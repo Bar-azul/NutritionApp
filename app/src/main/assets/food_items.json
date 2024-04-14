@@ -1,0 +1,100 @@
+﻿[
+  {
+    "name": "Apple",
+    "calories": 52,
+    "protein": 0.3,
+    "carbohydrates": 14,
+    "fat": 0.6
+  },
+  {
+    "name": "Banana",
+    "calories": 89,
+    "protein": 0.3,
+    "carbohydrates": 23,
+    "fat": 1.1
+  },
+  {
+    "name": "Blueberry",
+    "calories": 57,
+    "protein": 0.4,
+    "carbohydrates": 14,
+    "fat": 0.7
+  },
+  {
+    "name": "Chicken Breast",
+    "calories": 165,
+    "protein": 31,
+    "carbohydrates": 0,
+    "fat": 3.6
+  },
+  {
+    "name": "Egg",
+    "calories": 78,
+    "protein": 6.3,
+    "carbohydrates": 0.6,
+    "fat": 5.3
+  },
+  {
+    "name": "Grapes",
+    "calories": 69,
+    "protein": 0.2,
+    "carbohydrates": 18,
+    "fat": 0.7
+  },
+  {
+    "name": "Kiwi",
+    "calories": 61,
+    "protein": 1.1,
+    "carbohydrates": 15,
+    "fat": 0.5
+  },
+  {
+    "name": "Milk",
+    "calories": 42,
+    "protein": 3.4,
+    "carbohydrates": 5,
+    "fat": 1.2
+  },
+  {
+    "name": "Orange",
+    "calories": 47,
+    "protein": 0.2,
+    "carbohydrates": 12,
+    "fat": 0.9
+  },
+  {
+    "name": "Pineapple",
+    "calories": 50,
+    "protein": 0.1,
+    "carbohydrates": 13,
+    "fat": 0.5
+  },
+  {
+    "name": "Salmon",
+    "calories": 206,
+    "protein": 22,
+    "carbohydrates": 0,
+    "fat": 13
+  },
+  {
+    "name": "Strawberry",
+    "calories": 33,
+    "protein": 0.3,
+    "carbohydrates": 8,
+    "fat": 0.7
+  },
+  {
+    "name": "Watermelon",
+    "calories": 30,
+    "protein": 0.2,
+    "carbohydrates": 8,
+    "fat": 0.6
+  },
+  {
+    "name": "Yogurt",
+    "calories": 61,
+    "protein": 3.5,
+    "carbohydrates": 4.7,
+    "fat": 3.3
+  }
+]
